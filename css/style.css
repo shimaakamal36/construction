@@ -183,8 +183,7 @@ text-align: center;
 }
 /* section4**** */
 .sec_4{
-    background:linear-gradient(#3a3352c2,#3a33529e)
-    ,url("../images/bg4.jpg") no-repeat center center;
+    background:linear-gradient(#3a3352c2,#3a33529e),url("../images/bg4.jpg") no-repeat center center;
     background-size: cover;
     padding-top:25px;
     padding-bottom:2px;
